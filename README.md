@@ -1,6 +1,8 @@
 # Galaxy Explorer App
 ## A Flutter-based app that allows users to explore planets, discover information about them, and manage their list of favorite planets.
 
+</br>
+</br>
 
 # Technologies Used :
 
@@ -13,6 +15,8 @@
 
 
 
+</br>
+</br>
 
 
 
