@@ -3,6 +3,7 @@ import 'package:galaxy_planets/provider/planet.provider.dart';
 import 'package:galaxy_planets/view/fav_planet_page.dart';
 import 'package:galaxy_planets/view/planet_detail_page.dart';
 import 'package:galaxy_planets/view/planet_page.dart';
+import 'package:galaxy_planets/view/planet_splash_screen.dart';
 import 'package:provider/provider.dart';
 
 
@@ -21,7 +22,8 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Solar System Planets',
         routes: {
-          '/': (context) => const PlanetPage(),
+          '/': (context) => const SplashScreen(),
+          '/home': (context) => const PlanetPage(),
           '/favorites': (context) => FavoritesPage(),
           '/planetDetail': (context) => PlanetDetailPage(),
         },
