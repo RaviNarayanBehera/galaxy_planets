@@ -47,8 +47,7 @@ class FavoritesPage extends StatelessWidget {
               Planet planet = favoritePlanets[index];
               return GestureDetector(
                 onTap: () {
-                  // Navigate to the planet details page
-                  Navigator.of(context).pushNamed('/planetDetail', arguments: planet);
+             Navigator.of(context).pushNamed('/planetDetail', arguments: planet);
                 },
                 child: ListTile(
                   leading: Image.asset(planet.image),
