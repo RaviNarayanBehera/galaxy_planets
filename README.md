@@ -17,7 +17,7 @@
 
 
 
-# Galaxy Planets
+# Galaxy Planets Images
 
 <h1 align = "center">
   <img src="https://github.com/user-attachments/assets/b9afa754-d389-415f-9743-3299e139e41a" height=65%  width=22%>
