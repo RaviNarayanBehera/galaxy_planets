@@ -1,3 +1,22 @@
+# Galaxy Explorer App
+## A Flutter-based app that allows users to explore planets, discover information about them, and manage their list of favorite planets.
+
+
+# Technologies Used :
+
+<h3>
+• Flutter: Used for building the UI and handling app logic.</br>
+• Provider: State management for handling planet data and favorite planet states.</br>
+• SharedPreferences: Persisting favorite planet data across app sessions.</br>
+• Animation: Used for rotating planet images in a smooth animated fashion.</br>
+</h3>
+
+
+
+
+
+
+
 # Galaxy Planets
 
 <h1 align = "center">
