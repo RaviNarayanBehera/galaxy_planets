@@ -1,5 +1,7 @@
 # Galaxy Explorer App
-## A Flutter-based app that allows users to explore planets, discover information about them, and manage their list of favorite planets.
+## A Flutter app that allows user to explore planets, view detailed information, and manage a list of favorite planets using a clean, intuitive UI. The app uses the Provider package for state management and SharePreferences to persist favorite planets between sessions.
+
+
 
 </br>
 </br>
